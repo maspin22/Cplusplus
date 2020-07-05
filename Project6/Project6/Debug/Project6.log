@@ -1,0 +1,25 @@
+﻿  Menu.cpp
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(19,26): error C2679: binary '<<': no operator found which takes a right-hand operand of type 'char' (or there is no acceptable conversion)
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(17,17): message : could be 'std::ostream &operator <<(std::ostream &,MenuItem &)'
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(19,26): message : while trying to match the argument list '(std::ostream, char)'
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(19,60): error C2065: 'endl': undeclared identifier
+C:\Users\michael a\source\repos\Project6\Project6\MenuH.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\michael a\source\repos\Project6\Project6\MenuH.h(19,23): error C2679: binary '<<': no operator found which takes a right-hand operand of type 'const char [13]' (or there is no acceptable conversion)
+C:\Users\michael a\source\repos\Project6\Project6\MenuH.h(17,17): message : could be 'std::ostream &operator <<(std::ostream &,Menu &)'
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(17,17): message : or       'std::ostream &operator <<(std::ostream &,MenuItem &)'
+C:\Users\michael a\source\repos\Project6\Project6\MenuH.h(19,23): message : while trying to match the argument list '(std::ostream, const char [13])'
+C:\Users\michael a\source\repos\Project6\Project6\MenuH.h(19,26): error C2065: 'endl': undeclared identifier
+C:\Users\michael a\source\repos\Project6\Project6\MenuH.h(25,13): error C2039: 'endl': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\vector(20): message : see declaration of 'std'
+  MenuItem.cpp
+C:\Users\michael a\source\repos\Project6\Project6\MenuH.h(25,17): error C2065: 'endl': undeclared identifier
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(19,26): error C2679: binary '<<': no operator found which takes a right-hand operand of type 'char' (or there is no acceptable conversion)
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(17,17): message : could be 'std::ostream &operator <<(std::ostream &,MenuItem &)'
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(19,26): message : while trying to match the argument list '(std::ostream, char)'
+  main.cpp
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(19,60): error C2065: 'endl': undeclared identifier
+C:\Users\michael a\source\repos\Project6\Project6\MenuItemH.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\michael a\source\repos\Project6\Project6\MenuH.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline

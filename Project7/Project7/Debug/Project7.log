@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\michael a\source\repos\Project7\Project7\MenuH.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Menu.cpp
+C:\Users\michael a\source\repos\Project7\Project7\MenuH.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\michael a\source\repos\Project7\Project7\MenuH.h(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MenuItem.cpp
+  Generating Code...
+C:\Users\michael a\source\repos\Project7\Project7\MenuH.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project7.vcxproj -> C:\Users\michael a\source\repos\Project7\Debug\Project7.exe

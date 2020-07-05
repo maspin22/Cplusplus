@@ -1,0 +1,11 @@
+﻿  Bank.cpp
+C:\Users\michael a\source\repos\Project5\Project5\BankH.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BankAccount.cpp
+C:\Users\michael a\source\repos\Project5\Project5\BankAccountH.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Menu.cpp
+  main.cpp
+C:\Users\michael a\source\repos\Project5\Project5\BankAccountH.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\michael a\source\repos\Project5\Project5\BankAccountH.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\michael a\source\repos\Project5\Project5\BankH.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Project5.vcxproj -> C:\Users\michael a\source\repos\Project5\Debug\Project5.exe
